@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 438.8 435.8" style="enable-background:new 0 0 438.8 435.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#2B95B6;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F9F9F9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#2B95B6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FCFCFC;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#2B95B6;}
+	.st6{fill:none;stroke:#F7F7F7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<line id="svg-concept" class="st0" x1="114.2" y1="225.3" x2="138" y2="225.3"/>
+<line id="svg-concept_00000138536233384494056750000017676653821862904221_" class="st0" x1="114.2" y1="182.7" x2="133.8" y2="182.7"/>
+<line id="svg-concept_00000010309051737674262240000018111650571525510023_" class="st0" x1="123.1" y1="204.1" x2="138" y2="204.1"/>
+<path id="svg-concept_00000012449688991743560260000003561746573724173759_" class="st0" d="M133.8,182.7c5.7,0,10.2,4.7,10.2,10.2
+	s-4.7,11-10.2,11"/>
+<path id="svg-concept_00000129200622562366447170000004570838402884214416_" class="st0" d="M138,204.1c5.7,0,10.2,5.3,10.2,11
+	s-4.7,10.2-10.2,10.2"/>
+<line id="svg-concept_00000163793754998779872070000016591789405121688452_" class="st0" x1="123.1" y1="175.1" x2="123.1" y2="232.9"/>
+<line id="svg-concept_00000052102779474402695570000005957976815636189839_" class="st0" x1="131.3" y1="225.3" x2="131.3" y2="232.9"/>
+<line id="svg-concept_00000147216330649269174910000003322922397601264778_" class="st0" x1="131.3" y1="175.1" x2="131.3" y2="182.7"/>
+<path class="st1" d="M74.1,210.4c3.3,29,27.6,51,56.9,51c31.5,0,57.3-25.8,57.3-57.3c0-31.7-25.8-57.3-57.3-57.3
+	c-29.3,0-53.8,21.9-56.9,51"/>
+<path class="st2" d="M131.3,246c23.2,0,41.9-18.9,41.9-41.9c0-23.2-18.9-41.9-41.9-41.9c-23.2,0-41.9,18.9-41.9,41.9
+	C89.2,227.3,108.1,246,131.3,246L131.3,246z"/>
+<g>
+	<polyline id="svg-concept_00000024690724789698236680000010025854732674872462_" class="st3" points="281.7,18.3 300.3,18.3 
+		281.7,38.6 300,38.6 	"/>
+	<line id="svg-concept_00000124862908180263976860000006955009912159191188_" class="st3" x1="291" y1="38.6" x2="291" y2="45.4"/>
+	<line id="svg-concept_00000005981165085850860860000011984733449548059525_" class="st3" x1="291" y1="11.1" x2="291" y2="18"/>
+	<circle id="svg-concept_00000108305029294695443570000015341433425005589378_" class="st3" cx="291" cy="27.8" r="25.5"/>
+	
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="5s" fill="remove" path="M0, 20 0 0 0 20" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<g>
+	<polygon id="svg-concept_00000018922617324538714560000005746567716189762477_" class="st0" points="345.1,337.7 324.9,371.4 
+		345.1,382.8 365.3,370.9 	"/>
+	<polygon id="svg-concept_00000090257056631438014860000010648555281768987271_" class="st0" points="324.9,377.7 345.1,404.3 
+		365.3,377.3 345.1,389.2 	"/>
+	
+		<line id="svg-concept_00000037653105034260467240000010462726053039704733_" class="st0" x1="345.1" y1="337.7" x2="345.1" y2="382.8"/>
+	
+		<line id="svg-concept_00000053545779680292468530000001005437226238174110_" class="st0" x1="345.1" y1="389.2" x2="345.1" y2="404.3"/>
+	<polyline id="svg-concept_00000141432764935915273450000016633751635928159148_" class="st0" points="324.9,371.4 345.1,362.1 
+		365.3,370.9 	"/>
+	<circle id="svg-concept_00000135689687630787728800000005442030541514076340_" class="st3" cx="345.1" cy="371" r="42.5"/>
+	
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="4s" fill="remove" path="M0, 20 0 0 0 20" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<g>
+	<path id="svg-concept_00000179614344663804711630000018110770836895761598_" class="st1" d="M184.1,60.8c0-3.5-2.9-6.5-6.5-6.5
+		c-3.5,0-6.4,2.9-6.4,6.5c0,3.4,2.7,6,6.5,6.5c4.1,0.5,6.9,3.1,6.9,6.7c0,3.7-3,6.7-6.7,6.7l0,0c-3.7,0-6.7-3-6.7-6.7"/>
+	<path id="svg-concept_00000053546772086322805930000001693970668204282291_" class="st1" d="M178.1,80.7v3.5"/>
+	<path id="svg-concept_00000046324366023244654950000016749926426701576891_" class="st1" d="M178.1,50.6v3.9"/>
+	<circle id="svg-concept_00000075136437291716324770000006324723226305554308_" class="st1" cx="177.9" cy="68.1" r="23.3"/>
+	
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="3s" fill="remove" path="M0, 15 0 0 0 15" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+<circle class="st1" cx="82.7" cy="121.7" r="8.7"/>
+<path class="st2" d="M334.1,246.4h-81.5"/>
+<path class="st4" d="M268.7,233.2h-13.6c-0.6,0-1.2-0.5-1.2-1.2v-22.3c0-0.6,0.5-1.2,1.2-1.2h13.6c0.6,0,1.2,0.5,1.2,1.2V232
+	C269.8,232.7,269.3,233.2,268.7,233.2z"/>
+<path class="st1" d="M300.8,233.2h-13.6c-0.6,0-1.2-0.5-1.2-1.2v-43c0-0.6,0.5-1.2,1.2-1.2h13.6c0.6,0,1.2,0.5,1.2,1.2v43
+	C302,232.7,301.5,233.2,300.8,233.2z"/>
+<path id="svg-concept_00000123430877922948100520000001015733327622517921_" class="st0" d="M332.4,233.2H320
+	c-0.9,0-1.7-0.7-1.7-1.7v-67.1c0-0.9,0.7-1.7,1.7-1.7h12.4c0.9,0,1.7,0.7,1.7,1.7v67.1C334.1,232.5,333.4,233.2,332.4,233.2z"/>
+<g>
+	<path id="svg-concept_00000142145503240071358280000002576999539170348420_" class="st0" d="M334.1,132.3l-36.8,39.5l-9.9-9.3
+		l-34.8,33.8"/>
+	
+		<line id="svg-concept_00000098937497912334800360000016607887306010805942_" class="st0" x1="334.1" y1="132.3" x2="324.8" y2="133.5"/>
+	
+		<line id="svg-concept_00000115510334619421195850000008181164653338610330_" class="st0" x1="334.1" y1="132.3" x2="334.1" y2="141.8"/>
+</g>
+<path id="svg-ico" class="st5" d="M338.7,246.6c0,2.7-2.2,5-5,5s-5-2.2-5-5c0-2.7,2.2-5,5-5S338.7,243.9,338.7,246.6z"/>
+<path class="st1" d="M355.6,261H236.4c-5.5,0-10-4.5-10-10V131.7c0-5.5,4.5-10,10-10h119.2c5.5,0,10,4.5,10,10V251
+	C365.7,256.5,361.2,261,355.6,261z"/>
+<path class="st1" d="M272.1,429.7H166.7c-2.5,0-4.5-2-4.5-4.5l0,0c0-2.5,2-4.5,4.5-4.5H272c2.5,0,4.5,2,4.5,4.5l0,0
+	C276.6,427.7,274.6,429.7,272.1,429.7z"/>
+<path id="svg-concept_00000042702046860453484480000001009930458953666441_" class="st3" d="M212.7,83.6h176.6
+	c6.4,0,11.6,5.2,11.6,11.6v207.1c0,6.4-5.2,11.6-11.6,11.6H49.6c-6.4,0-11.6-5.2-11.6-11.6V95.2c0-6.4,5.2-11.6,11.6-11.6h93.5"/>
+<circle class="st2" cx="219.4" cy="340.3" r="8.7"/>
+<polyline class="st1" points="253.7,363.7 265.3,420.6 173.5,420.6 185.1,363.7 "/>
+<path class="st1" d="M286.1,363.7H35.5c-11,0-19.9-8.9-19.9-19.9V82c0-11,8.9-19.9,19.9-19.9h106.9"/>
+<path class="st1" d="M316.5,62.1h86.8c11,0,19.9,8.9,19.9,19.9v261.7c0,11-8.9,19.9-19.9,19.9"/>
+<line class="st1" x1="212.4" y1="62.1" x2="265.5" y2="62.1"/>
+<line class="st1" x1="74.1" y1="277" x2="188.3" y2="277"/>
+<line class="st1" x1="104.6" y1="121.7" x2="188.3" y2="121.7"/>
+<line class="st1" x1="74.1" y1="293.2" x2="155.7" y2="293.2"/>
+<line class="st6" x1="225.5" y1="277" x2="322" y2="277"/>
+<line class="st2" x1="224.8" y1="293.2" x2="336.9" y2="293.2"/>
+</svg>

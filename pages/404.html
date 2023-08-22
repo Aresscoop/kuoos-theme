@@ -1,0 +1,38 @@
+title = "404"
+url = "*"
+layout = "default"
+==
+
+    <div class="box-container limit-width">
+        <!-- ***** SETTINGS ****** -->
+        <section id="settings"> </section>
+        <!-- ***** LOADING PAGE ****** -->
+        <div id="spinner-area">
+            <div class="spinner">
+                <div class="double-bounce1"></div>
+                <div class="double-bounce2"></div>
+                <div class="spinner-txt">Kuoos</div>
+            </div>
+        </div>
+        <!-- ***** FRAME MODE ****** -->
+        <div class="body-borders" data-border="20">
+          <div class="top-border bg-white"></div>
+          <div class="right-border bg-white"></div>
+          <div class="bottom-border bg-white"></div>
+          <div class="left-border bg-white"></div>
+        </div>
+        <!-- ***** 404 ****** -->
+        <section class="sec-normal notfound pt-150 scrollme">
+            <div class="total-grad-pink-blue-intense"></div>
+            <div class="container animateme" data-when="exit" data-from="0" data-to="0.75" data-opacity="1" data-translatey="-50">
+                <div class="row justify-content-center">
+                    <div class="col-9">
+                        <img class="svg" src="{{ '/assets/patterns/notfound.svg' | theme}}" alt="provisioning">
+                    </div>
+                </div>
+                <div class="col-md-12 text-center pt-5">
+                    <p class="text-white">Parece que la página que buscabas no existe<br> Presiona el siguiente botón para volver al inicio o <a href="contact" class="golink">contáctanos</a></p>
+                    <a href="index.html" class="btn btn-default-grad-purple-fill mt-3">Inicio</a>
+                </div>
+            </div>
+        </section>

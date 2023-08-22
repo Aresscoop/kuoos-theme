@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 608.9 468" style="enable-background:new 0 0 608.9 468;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#2B95B6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F9F9F9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#2B95B6;}
+</style>
+<path class="st0" d="M55,56.7V22.1c0-8.9,7.3-16.2,16.2-16.2h511.9c9,0,16.2,7.3,16.2,16.2v374.4c0,9-7.3,16.2-16.2,16.2h-29.6"/>
+<path class="st0" d="M25.4,58.2h511.9c9,0,16.2,7.3,16.2,16.2v374.4c0,9-7.3,16.2-16.2,16.2H25.4c-9,0-16.2-7.3-16.2-16.2V74.4
+	C9.2,65.5,16.4,58.2,25.4,58.2z"/>
+<path id="svg-concept" class="st1" d="M53.9,129.5h458.9v47.2H53.9V129.5z"/>
+<path id="svg-concept_00000151514275624650271770000006383350532378696069_" class="st1" d="M68.7,83.7c0,2.4-1.9,4.3-4.3,4.3
+	s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C66.7,79.4,68.7,81.3,68.7,83.7z"/>
+<path class="st0" d="M89.3,83.7c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C87.3,79.4,89.3,81.3,89.3,83.7z
+	 M109.9,83.7c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C107.9,79.4,109.9,81.3,109.9,83.7z M10.4,103.9h541.7
+	 M53.9,194.4h81.9v12.8H53.9V194.4z M172.2,252.6h133.7v12.8H172.2V252.6z M154.8,194.3h357.1v12.8H154.8V194.3z M53.9,227.9h81.8
+	 M172.2,227.9h94.9 M154.8,207.7v229.1 M53.9,251.1h81.8 M342.2,147.8h149.2 M374.1,158.1h117.3"/>
+<path id="svg-concept_00000068651722548250813140000011794407115661449908_" class="st1" d="M173.3,320.1h32.9v28.7h-32.9
+	L173.3,320.1z"/>
+<path class="st0" d="M292.2,320.1h32.9v28.7h-32.9V320.1z M410.9,320.1h32.9v28.7h-32.9V320.1z M173.3,361.3h32.9v28.6h-32.9
+	L173.3,361.3z M232.1,320.1H265v28.7h-32.9V320.1z"/>
+<g>
+	<path id="svg-concept_00000143609239267184354970000004449208904907006874_" class="st1" d="M232.1,361.3H265v28.6h-32.9V361.3z"/>
+	
+		<animate  accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="fill" begin="0s" calcMode="linear" dur="1s" fill="freeze" from="#ffffff" restart="always" to="#ee5486">
+		</animate>
+</g>
+<g>
+	<path id="svg-concept_00000163035555461746037990000000462498590202923655_" class="st1" d="M352.6,320.1h32.9v28.7h-32.9V320.1z"
+		/>
+	
+		<animate  accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="fill" begin="0.5s" calcMode="linear" dur="1s" fill="freeze" from="#ffffff" restart="always" to="#ee5486">
+		</animate>
+</g>
+<path class="st0" d="M292.2,361.3h32.9v28.6h-32.9V361.3z M352.6,361.3h32.9v28.6h-32.9V361.3z"/>
+<path id="svg-concept_00000063632727361314726690000006030307819815972511_" class="st1" d="M410.8,361.3h32.9v28.6h-32.9V361.3z"/>
+<path class="st0" d="M475.1,320.1H508v28.7h-32.9V320.1z M173.3,403.5h32.9v28.7h-32.9L173.3,403.5z M292.2,403.5h32.9v28.7h-32.9
+	V403.5z M410.9,403.5h32.9v28.7h-32.9V403.5z M232.1,403.5H265v28.7h-32.9V403.5z"/>
+<path id="svg-concept_00000164507660120801869530000004595119000979969467_" class="st1" d="M352.6,403.5h32.9v28.7h-32.9V403.5z"/>
+<path class="st0" d="M475.1,403.5H508v28.7h-32.9V403.5z M474.9,361.3h32.9v28.6h-32.9V361.3z M53.9,274.3h81.8 M53.9,297.4h81.8
+	 M53.9,320.6h81.8"/>
+<path class="st0" d="M53.9,343.8h81.8 M53.9,367h81.8 M172.2,279.7h156.3 M172.2,290.1h238.6"/>
+<path class="st0" d="M53.9,398.2h35.9 M53.9,408.5h35.9 M53.9,418.9h35.9 M53.9,429.3h35.9 M100,398.2h36 M100,408.5h36"/>
+<path class="st2" d="M100,418.9h36 M100,429.3h36"/>
+<g>
+	<path id="svg-ico" class="st3" d="M506.1,103.9c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S506.1,101.7,506.1,103.9z"/>
+	
+		<animateMotion  accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="12s" fill="remove" path="M40, 0 -490 0 45 0" repeatCount="indefinite" restart="always">
+		</animateMotion>
+</g>
+</svg>
