@@ -4467,7 +4467,7 @@ nav .tech-box svg:hover{
 }
 
 .footer .footer-menu .menu-item a {
-	color: #aaaaaa;
+	color: #ffffff;
 	-webkit-transition: 0.3s;
 	-moz-transition: 0.3s;
 	-ms-transition: 0.3s;
@@ -4477,7 +4477,7 @@ nav .tech-box svg:hover{
 
 .footer .footer-menu .menu-item a:hover {
 	text-decoration: none;
-	color: #2b95b6;
+	color: #064f70;
 }
 
 .footer .footer-menu {
